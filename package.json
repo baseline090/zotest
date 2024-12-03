@@ -1,9 +1,10 @@
 {
   "name": "zoho-crm-sync",
   "version": "1.0.0",
-  "main": "test.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node test.js"
+  "start":"node test.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
