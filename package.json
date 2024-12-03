@@ -1,7 +1,7 @@
 {
   "name": "zoho-crm-sync",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "test.js",
   "scripts": {
     "start": "node test.js"
   },
